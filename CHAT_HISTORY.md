@@ -50,4 +50,4 @@
 - *СПБ: https://zif91.github.io/autoretail-volga-landing/spb.html*
 
 **User:** 
-сохрани чат отдельно - в мд - и туда же в репо. You are an expert engineer and your task is to write a new file from scratch...
+сохрани чат отдельно - в мд - и туда же в репо. You are an expert engineer and your task is to write a new file from scratch...Testing auto-deploy
